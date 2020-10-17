@@ -4,7 +4,7 @@
   window.game = new CatchTheCatGame({ 
       w: 11, 
       h: 11, 
-      r: 20 
+      r: radius,
       backgroundColor: 0xffffff, 
       parent: "catch-the-cat", 
       statusBarAlign: "center", 
