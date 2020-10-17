@@ -4,10 +4,10 @@
   window.game = new CatchTheCatGame({ 
       w: 11, 
       h: 11, 
-      r: 20, 
+      r: 20 
       backgroundColor: 0xffffff, 
       parent: "catch-the-cat", 
       statusBarAlign: "center", 
-      credit: ''blog.imsyy.top | 無名小栈''
+      credit: "blog.imsyy.top | 無名小栈"
   });
 }();
