@@ -252,7 +252,7 @@ input#upload_submit:hover {
 }
 
 /*移动端适配*/
-@media screen and (max-width:320px){
+@media screen and (max-width:480px){
     .table-header a {
         padding: 4px 8px!important;
         margin: 0px 0px!important;
